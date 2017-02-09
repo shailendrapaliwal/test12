@@ -1,6 +1,5 @@
 {
     "require": {
-        "php": ">=5.2.0",
-        "midgard/midgardmvc-helper-urlize": "*"
+        "php": ">=5.2.0"
     }
 }
